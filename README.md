@@ -25,13 +25,14 @@ To contact us, please send an email to: [apedrouzo@gts.uvigo.es](mailto:apedrouz
 Please use the following BibTex entry to cite our work:
 
   @inproceedings{PBCSSZ23,
-      author = {Alberto Pedrouzo{-}Ulloa and Aymen Boudguiga and Olive Chakraborty and Renaud Sirdey and Oana Stan and Martin Zuber},
-      title = {Practical Multi-Key Homomorphic Encryption for More Flexible and Efficient Secure Federated Average Aggregation},
-      booktitle = {{IEEE} International Conference on Cyber Security and Resilience, {CSR} 2023, Venice, Italy, July 31 - Aug. 2, 2023},
-      pages = {612--617},
-      publisher = {{IEEE}},
-      year = {2023}
-  }
+        author = {Alberto Pedrouzo{-}Ulloa and Aymen Boudguiga and Olive Chakraborty and Renaud Sirdey and Oana Stan and Martin Zuber},
+        title = {Practical Multi-Key Homomorphic Encryption for More Flexible and Efficient Secure Federated Average Aggregation},
+        booktitle = {{IEEE} International Conference on Cyber Security and Resilience, {CSR} 2023, Venice, Italy, July 31 - Aug. 2, 2023},
+        pages = {612--617},
+        publisher = {{IEEE}},
+        year = {2023}
+        }
+
 
 ## References
 1. Alberto Pedrouzo-Ulloa, Aymen Boudguiga, Olive Chakraborty, Renaud Sirdey, Oana Stan, Martin Zuber: Practical Multi-Key Homomorphic Encryption for More Flexible and Efficient Secure Federated Average Aggregation. CSR 2023: 612-617.
