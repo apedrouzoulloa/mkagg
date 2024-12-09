@@ -8,7 +8,7 @@ Practical Multi-Key Homomorphic Encryption for More Flexible and Efficient Secur
 The repository includes:
 1. Implementations of the protocol, with and without parallelization.
 2. A baseline BFV implementation for comparison.
-3. A detailed report in PDF format, including a summary of the original work, a discussion parameter selection and tables with execution runtimes.
+3. A detailed report in PDF format, including a summary of the original work, a discussion for parameter selection and tables with execution runtimes.
 
 ## Structure
 - `docs/`: Contains technical documents and presentations related to the project.
